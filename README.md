@@ -12,6 +12,10 @@ This dashboard allows users to explore space mission data through interactive fi
 
 ---
 
+## Preview
+
+![Space Mission Dashboard](assets/Dashboard_Screenshot.png)
+
 ## Technology Stack
 
 **Frontend**
